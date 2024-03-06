@@ -2,15 +2,15 @@
 
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Your Name Here**
+Submitted by: **Dung Nguyen**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Debugging** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes! The different pages shows how you can add strings to a page in the app and how to toggle between different colored backgrounds **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😄🤔🤓**
 
 ## Application Features
 
@@ -37,7 +37,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Animation2](https://github.com/Zooomulus/P2KotlinDebugging/assets/115956505/a797d5cf-295f-4018-8435-1a34277ecce7)
+
 
 GIF created with **ScreenToGif**
 
