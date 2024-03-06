@@ -37,6 +37,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![scrnshot](https://github.com/Zooomulus/P2KotlinDebugging/assets/115956505/9c790b39-d154-46fc-81e1-fd959f0dca16)
+
+
 ![Animation2](https://github.com/Zooomulus/P2KotlinDebugging/assets/115956505/a797d5cf-295f-4018-8435-1a34277ecce7)
 
 
