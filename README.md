@@ -10,7 +10,7 @@ Time spent: **2** hours spent in total
 
 **Debugging** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes! The different pages shows how you can add strings to a page in the app and how to toggle between different colored backgrounds **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **😄🤔🤓**
+If I had to describe this project in three (3) emojis, they would be: **😄🤔🐛**
 
 ## Application Features
 
